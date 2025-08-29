@@ -48,18 +48,18 @@ Currently focusing on the **MERN stack (MongoDB, Express.js, React.js, Node.js)*
 
 ## 📂 Projects  
 
-### 🔹 [GO-WHEELS – Online Bus Ticket Booking Platform](https://github.com/joelroy08)  
+### 🔹 [GO-WHEELS – Online Bus Ticket Booking Platform](https://github.com/joelroy08/Project-1-Phase-1)  
 - Web-based platform for searching bus routes, viewing timings, and booking tickets online.  
 - Tech: React.js, Node.js, Express.js, MongoDB.  
 
-### 🔹 [Marisa Garden – E-Commerce Website](https://github.com/joelroy08)  
+### 🔹 [Marisa Garden – E-Commerce Website](https://github.com/joelroy08/Project-2-Phase-1)  
 - Interactive gardening e-commerce platform.  
 - Allows users to browse, select, and purchase plants online.  
 
 ### 🔹 Academic Projects  
 - **Automatic Obstacle Detection System (IoT)** – Team Lead  
-- **Early Prediction of Rice Crop Diseases (IoT & ML)** – Team Lead  
-- **Microwave Filters Research Project** – Achieved **20% improvement in signal selectivity**  
+- **[Early Prediction of Rice Crop Diseases](https://github.com/joelroy08/ELECTRONIC-PRODUCT-DESIGN-PROJECT-) (IoT & ML)** – Team Lead  
+- **[Microwave Filters Research Project](https://github.com/joelroy08/-ECE-24-MAIN-PROJECT-ON-MICROWAVE-FILTER)** – Achieved **20% improvement in signal selectivity**  
 
 ---
 
