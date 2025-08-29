@@ -77,28 +77,7 @@ Currently focusing on the **MERN stack (MongoDB, Express.js, React.js, Node.js)*
 ## 🌟 Soft Skills  
 ✅ Leadership • ✅ Team Management • ✅ Problem-Solving • ✅ Critical Thinking • ✅ Public Speaking  
 
----
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joelroy08&show_icons=true&theme=radical" alt="Joel's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joelroy08&theme=radical" alt="Joel's GitHub Streak" width="48%"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelroy08&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
-</p>  
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joelroy08&theme=radical" alt="Joel's Contribution Graph" />
-</p>  
-
----
 
 ## 📫 Let's Connect!  
 💌 [Email Me](mailto:joelroyparayil@gmail.com)  
