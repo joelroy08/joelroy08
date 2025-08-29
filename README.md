@@ -46,7 +46,7 @@ Currently focusing on the **MERN stack (MongoDB, Express.js, React.js, Node.js)*
 
 ---
 
-## 📌 Projects  
+## 📂 Projects  
 
 ### 🔹 [GO-WHEELS – Online Bus Ticket Booking Platform](https://github.com/joelroy08)  
 - Web-based platform for searching bus routes, viewing timings, and booking tickets online.  
