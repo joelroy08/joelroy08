@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Banner](https://raw.githubusercontent.com/joelroy08/joelroy08/main/banner.png)
+![Banner](https://github.com/joelroy08/joelroy08/blob/main/banner.png?raw=true)
 
 👋 Hi, I'm Joel Roy
 🚀 MERN Stack Developer
