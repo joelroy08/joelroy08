@@ -7,6 +7,19 @@
 
 🎯 **ECE Graduate | MERN Stack Developer | Full-Stack Web Enthusiast**  
 
+
+---
+
+## 👨‍💻 About Me  
+- 🎓 Electronics and Communication Engineering Graduate from Kerala, India  
+- 🚀 Passionate about **Full Stack Web Development**, especially the **MERN Stack**  
+- 💡 Constantly learning and exploring modern web technologies  
+- 🔍 Looking for **entry-level opportunities** in Frontend / Full Stack Development  
+- 🛠️ Enjoy building real-world projects and improving code quality  
+
+---
+
+
 📍 Kerala, India  
 📧 [joelroyparayil@gmail.com](mailto:joelroyparayil@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/joel-roy66) | [GitHub](https://github.com/joelroy08)  
