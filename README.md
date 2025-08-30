@@ -2,7 +2,7 @@
 ![Banner](https://github.com/joelroy08/joelroy08/blob/main/banner2.png?raw=true)
 
 👋 Hi, I'm Joel Roy
-🚀 MERN Stack Developer
+
 
 
 🎯 **ECE Graduate | MERN Stack Developer | Full-Stack Web Enthusiast**  
