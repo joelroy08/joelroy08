@@ -79,7 +79,7 @@ Currently focusing on the **MERN stack (MongoDB, Express.js, React.js, Node.js)*
 
 
 ## 📫 Let's Connect!  
-💌 [Email Me](mailto:joelroyparayil@gmail.com)  
+💌 [Email Me](joelroyparayil@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/joel-roy66)  
 💻 [GitHub](https://github.com/joelroy08)  
 
