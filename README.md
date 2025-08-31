@@ -58,7 +58,7 @@ Currently focusing on the **MERN stack (MongoDB, Express.js, React.js, Node.js)*
 ### 🔹 Academic Projects  
 - **Automatic Obstacle Detection System (IoT)** – Team Lead  
 - **[Early Prediction of Rice Crop Diseases](https://github.com/joelroy08/ELECTRONIC-PRODUCT-DESIGN-PROJECT-) (IoT & ML)** – Team Lead  
-- **[Microwave Filters Research Project](https://github.com/joelroy08/-ECE-24-MAIN-PROJECT-ON-MICROWAVE-FILTER)** – Achieved **20% improvement in signal selectivity**  
+- **[Microwave Filters Research Project](https://github.com/joelroy08/-ECE-24-MAIN-PROJECT-ON-MICROWAVE-FILTER)** – Achieved **20% improvement in signal selectivity**- Team Lead  
 
 ---
 
