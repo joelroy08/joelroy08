@@ -11,7 +11,7 @@
 ---
 
 ## 👨‍💻 About Me  
-- 🎓 Electronics and Communication Engineering Graduate from Kerala, India  
+- 🎓 Electronics and Communication Engineering Graduate from CUSAT, Kerala, India  
 - 🚀 Passionate about **Full Stack Web Development**, especially the **MERN Stack**  
 - 💡 Constantly learning and exploring modern web technologies  
 - 🔍 Looking for **entry-level opportunities** in Frontend / Full Stack Development  
