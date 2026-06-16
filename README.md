@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 
-![Banner](https://github.com/joelroy08/joelroy08/blob/main/banner2.png?raw=true)
+![Banner](https://github.com/joelroy08/joelroy08/blob/main/Bannergitthub.png?raw=true)
 
 # 👋 Hi, I'm Joel Roy
 
